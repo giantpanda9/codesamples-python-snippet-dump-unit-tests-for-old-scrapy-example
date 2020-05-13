@@ -7,15 +7,15 @@ Old code to show the ability to work with Unit Testing in Python 2.7 related to 
 2. Not sure if this test still relevant for the corresponding site
 3. The code will be archieved as only to be used as proof of ability to do Python Unit Testing
 # Dependencies
-unittest
-json
-1. output.json — my scraper output file as it must be in the same fodler with the
-fara_gov_first_page/unittests/output_file_integrity_test.py unit test
-2. template.json — the example structure from the GovPredict Interview, Scraping Foreign
-Principals Google Doc file to compare with
-Without the both two files mentioned above
-ara_gov_first_page/unittests/output_file_integrity_test.py will not work properly
-
+1. Modules:
+  unittest
+  json
+2. Files from corresponding other archieved project:
+  1. output.json — my scraper output file as it must be in the same fodler with the
+  fara_gov_first_page/unittests/output_file_integrity_test.py unit test
+  2. template.json — the example structure from the GovPredict Interview, Scraping Foreign
+  Principals Google Doc file to compare with
+  Without the both two files mentioned above /unittests/output_file_integrity_test.py will not work properly
 # Description
 1. /unittests/output_file_integrity_test.py
 This actually a kit of tests that seem to have the common purpose to me:
