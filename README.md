@@ -3,6 +3,7 @@ Unit tests for https://github.com/giantpanda9/codesample-python-scrapy-old-examp
 # Old code to show the ability to work with Unit Testing in Python 2.7 related to aforementioned project
 # Purpose
 Mostly needed to display abilties to use Unit Testing in Python as tests are quite simple in structure
+Not sure if this test still relevant for the corresponding site
 # Dependencies
 unittest
 json
