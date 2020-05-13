@@ -1,6 +1,7 @@
 # codesamples-python-unit-tests-for-old-scrapy-example
 Unit tests for https://github.com/giantpanda9/codesample-python-scrapy-old-example
-# Old code to show the ability to work with Unit Testing in Python 2.7 related to aforementioned project
+# Disclaimer
+Old code to show the ability to work with Unit Testing in Python 2.7 related to aforementioned project
 # Purpose
 1. Mostly needed to display abilties to use Unit Testing in Python as tests are quite simple in structure
 2. Not sure if this test still relevant for the corresponding site
